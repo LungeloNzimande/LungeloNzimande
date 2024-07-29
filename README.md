@@ -15,9 +15,9 @@ My name is <b>Lungelo Nzimande</b>, this is my online lab where I get to experim
 I'm a Full Stack developer with 8+ years of experience. I have worked for different companies where I have been exposed to different processes and technologies. I have also worked with different developers around the world over the past years. 
 
 #### 📜 History
-My passion for technology started back in 2006 when I had my first computer. Being a curios person by nature, I started trying to figure out how computers worked, especially software. Fast forward to 2011 when I started studying for an IT degree, where I wrote my first code while learning the basics from VB, PHP and gaining more debt into how things work. This is where I discovered my passion for coding.
+My passion for technology started back in 2006 when I had my first computer. I started trying to figure out how computers worked, especially software. In 2011 I wrote my first code while learning the basics of VB, PHP, HTML and Javascript. This is where I discovered my passion for coding.
 
-After completing my studies, I joined a start-up company where I started gaining relevant experience. From there, I joined a 12 months graduate program where I was mentored by experienced developers who guided us when it comes to foundational skills ranging from how a sprint is managed, understanding business requirements, source control and more. 
+After completing my studies, I joined a start-up company where I started gaining relevant hands-on experience. From there, I joined a 12 months graduate program where I was mentored by experienced developers who guided us when it comes to foundational skills ranging from how a sprint is managed, understanding business requirements, source control and more. 
 
 From then, I have worked on many projects, been part of many teams from different companies. 
 
@@ -39,6 +39,21 @@ These are the languages/libraries I have worked with:
 - Knockout.js
 - HTML
 - CSS
+
+Other stfuff I have worked with:
+- Octopus
+- Azure
+- Specflow
+- RabbitMQ
+- LaunchDarkly
+- Terraform
+- Vue.js
+- OracleDb
+- Redis
+- MongoDb
+- SEQ
+- Docker
+
 
 ### GitHub Starts
 
