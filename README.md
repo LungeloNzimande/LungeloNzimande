@@ -21,7 +21,7 @@ After completing my studies, I joined a start-up company where I started gaining
 
 From then, I have worked on many projects, been part of many teams from different companies. 
 
-What I enjoy the most as a developer is that there is always something to learn, a new library, framework to try and amazing developers that have cool tips and tricks to share! I have worked with developers from different parts of the world (UK, Brazil, India, Isle of man, Spain, Peru, to mention a few) which has been an amazing experience becuase you get to learn about other things besides just code.  
+What I enjoy the most as a developer is that there is always something to learn, a new library, framework to try and amazing developers that have cool tips and tricks to share! I have worked with developers from different parts of the world which has been an amazing experience becuase you get to learn about other things besides code.  
 
 #### 🔧 Tools and Languages
 These are the tools I usually install/work with: 
