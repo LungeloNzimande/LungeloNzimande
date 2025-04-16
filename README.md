@@ -7,7 +7,6 @@ My name is <b>Lungelo Nzimande</b>. This is my online lab where I experiment wit
 
 - 🌱 I'm currently learning Blazor
 - 🔬 I'm working on building my GitHub portfolio
-- 👥 I'm keen on contributing to any project
 - 💫 Fun fact: I enjoy hiking, running, camping, or cycling
 
 ### ✨ About me
