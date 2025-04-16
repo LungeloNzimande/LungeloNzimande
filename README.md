@@ -3,14 +3,11 @@
 <img src="simple.gif" height="200" />
 
 <br />
-My name is <b>Lungelo Nzimande</b>. This is my online lab where I experiment with different libraries, projects, and anything else that involves writing some code! 🤓
+Hi, I'm Lungelo Nzimande. Welcome to my online lab where I experiment with libraries, projects, and all things coding! 🤓
 
 - 🌱 I'm currently learning Blazor
 - 🔬 I'm working on building my GitHub portfolio
-- 💫 Fun fact: I enjoy hiking, running, camping, or cycling
-
-### ✨ About me
-I'm a Full Stack developer with 8+ years of experience. I have worked for different companies where I have been exposed to various processes and technologies. I have also worked with different developers.
+- 💫 I enjoy outdoor activities, especially hiking
 
 #### 🔧 Tools and Languages
 These are the tools I usually work with: 
